@@ -1,0 +1,73 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+.header {
+  background-color: rgb(29, 117, 218);
+  height: 80px; 
+  width: 100%;
+}
+
+.header h1 {
+  margin-left: 15px;
+  padding: 20px;
+  color: white;
+}
+
+.ticker h1 { 
+  color: aqua;
+}
+
+.ticker button {
+  width: 50px;
+  height: 50px;
+  background-color: rgb(29, 117, 218);
+  border-radius: 5px;
+  margin: 50px 0 0 400px;
+}
+
+.time {
+  align-content: center;
+  margin: 700px;
+  font-size: 25px;
+}
+
+.rps-header h1 {
+  color: gray;
+}
+
+.rps-header p {
+  color: gray;
+  margin-left: 100px;
+  font-size: 36px;
+}
+
+.btn-choice button {
+  background-color: rgb(21, 185, 235);
+  height: 50px;
+  width: 90px;
+  border-radius: 5px;
+  margin: 70px 0 0 100px;
+}
+
+.name-input {
+  margin-left: 100px;
+  padding: 10px;
+}
+
+.name-input label {
+  font-size: 24px;
+  color: grey;
+}
+
+.name-input input {
+  padding: 5px;
+}
+
+.submit {
+  background-color: rgb(21, 185, 235);
+  border-radius: 5px;
+  width: 70px;
+  height: 29px;
+}
